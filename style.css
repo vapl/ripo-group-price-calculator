@@ -13,7 +13,8 @@ body {
     width: 28rem;
     border: 1px solid lightgrey;
     padding: 40px 40px 10px;
-    box-shadow: 0 0 15px grey;
+    box-shadow: 0 0 15px black;
+    background-color: #fff;
 }
 
 @media (max-width: 400px) {
